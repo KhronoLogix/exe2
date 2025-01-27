@@ -1,5 +1,5 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+// Dominic Cruz / 1/27/25 / EXE2
+// roblox PLEASE killoran
 public class Main {
     public static void main(String[] args) {
         int temp[] = {45, 29, 10, 22, 41, 28, 33};
